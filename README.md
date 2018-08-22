@@ -22,3 +22,4 @@ OK, now I see building a website is tough! even you think its merely simple tree
 ## have focus
 
 <http://warpspire.com/posts/focus/>
+新加了一行
